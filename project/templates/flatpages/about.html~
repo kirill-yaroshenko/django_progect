@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            {{ flatpages.title }}
+        </title>
+    </head>
+    <body>
+        {{ flatpages.content }}
+        <h2> AMIE </h2>
+    </body>
+</html>
